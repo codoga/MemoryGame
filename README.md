@@ -1,5 +1,5 @@
 # Memory Card Game
-(https://codoga-memory-game.vercel.app/)
+(https://codoga-memorycard-game.vercel.app/)
 
 This project is a memory card game developed using React and Redux.
 
