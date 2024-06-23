@@ -22,6 +22,3 @@ Click on any card to reveal its image.
 Click on another card to see if it matches the first one.
 If the cards match, they stay open; if not, they flip back after a short delay.
 Try to match all pairs with the fewest number of moves to achieve a high score.
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
